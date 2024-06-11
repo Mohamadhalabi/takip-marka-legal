@@ -1,0 +1,33 @@
+*{
+    font-weight: normal;
+    font-size: 13px;
+}
+
+tr {
+    border: 1pt solid #e8ebee;
+    border-radius: 1rem;
+}
+td {
+    padding:15px 10px;
+
+}
+table tr td, table tr th {
+    page-break-inside: avoid;
+    margin: 4px 0 4px 0;
+}
+
+.trademark{
+    background-color: #f5f5f5;
+}
+
+.bultenler{
+    margin-top: -80px;
+}
+
+.card-heading{
+    font-size: 13px!important;
+}
+.trademark-title{
+    font-family: "Dejavu Sans";
+    font-weight: normal!important;
+}

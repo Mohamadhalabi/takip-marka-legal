@@ -1,0 +1,55 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Plans Language Lines
+    |--------------------------------------------------------------------------
+    */
+    'title' => 'PLANS',
+    'bank-transfer' => 'Bank Transfer',
+    'email-sent-successfully' => 'Email sent successfully',
+    'make-transfer-to-the-account-details-provided' => 'Make transfer to the account details provided',
+    'account-number' => 'Account Number',
+    'bank-name' => 'Bank Name',
+    'account-name' => 'Account Name',
+    'if-you-have-other-payment-requirements' => 'If you have other payment requirements, please send a message.',
+    'email' => 'Email',
+    'message' => 'Message',
+    'send' => 'Send',
+    'close' => 'Close',
+    'monthly-current-tracking' => 'Monthly Current Tracking',
+    'brand' => 'Trademarks',
+    'shape' => 'Images',
+    'monthly-tracking' => 'Monthly Tracking',
+    'call' => 'Searches',
+    'manual-search-in-past-bulletins' => 'Manual Search in Past Bulletins',
+    'month' => 'month',
+    'search-by-shape' => 'Searches by Image',
+    'all-limits-are-refilled-monthly' => 'All limits are refilled monthly',
+    'subscribe' => 'Subscribe',
+    'basic' => 'Basic',
+    'professional' => 'Professional',
+    'premium' => 'Premium',
+    'area-scan' => 'Area Scan',
+    'plan-downgrade' => 'Plan Downgrade',
+    'are-you-sure-you-want-to-downgrade' => 'Are you sure you want to downgrade your current plan? Some features may be limited.',
+    'change' => 'Change',
+    'i-would-like-to-know-more-about-the-custom-plan' => 'Hello, I would like to know more about the custom plan. Can I get information about pricing, features, and other relevant details?',
+    'current-plan' => 'Current Plan',
+    'pay-for-subscription' => 'Pay for Subscription',
+    'keyword-limit' => 'Keyword Limit',
+    'stop-and-your-current-keyword-count' => 'Stop and your current keyword count',
+    'therefore-in-the-next-reports' => 'Therefore, in the next reports, only the first',
+    'your-keyword-will-be' => 'your keyword will be',
+    'need-a-different-plan' => 'Need a different plan? Get an offer based on your needs',
+    'get-an-offer' => 'Get an Offer',
+    'instead-of-credit-debit-cards' => 'Instead of credit/debit cards',
+    'other-payment-methods' => 'other payment methods',
+    'do-you-want-to-use' => 'Do you want to use',
+    'special-plan' => 'Special Plan',
+    'your-message-has-been-sent-successfully' => 'Your message has been sent successfully',
+    'name' => 'Name',
+    'please-enter-a-message' => 'Please enter a message',
+];

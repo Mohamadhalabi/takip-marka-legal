@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'the-number-of-results-has-exceeded-1000' => 'The number of results has exceeded the maximum limit. Showing the first 1000 results.',
+    'you-have-exceeded-your-limit' => 'You have exceeded your limit for this period. Please wait for the next month to perform further area scan searches or contact us.',
+    'area-scan' => 'Area Scan',
+    'you-can-search-for-your-brands-in-all-bulletins' => 'You can search for your trademarks in all bulletins. This allows you to test the search performance of your keywords or recover forgotten keywords for a past report.',
+    'excluded-words' => 'Excluded Words',
+    'one-to-one-matching' => 'One-to-One Matching',
+    'app-no' => 'Application No',
+    'app-date' => 'Application Date',
+    'classes' => 'Nice Classes',
+    'bulletin-no' => 'Bulletin No.',
+    'vienna-classes' => 'Vienna Classes',
+    'proxy-info' => 'Attorney Information',
+    'good' => 'Good',
+    'extracted-good' => 'Extracted Good',
+    'close' => 'Close',
+    'found-in' => 'Found In',
+    'brand-owner-info' => 'Trademark Owner Information',
+    'exact-match' => 'Exact Match',
+    'official-brand-bulletin-no' => 'Official Trademark Bulletin No.',
+    'class' => 'class',
+    'search-keyword' => 'Search Keyword',
+    'goods-and-services' => 'Goods and Services',
+    'denied-goods-and-services' => 'Denied Goods and Services',
+];

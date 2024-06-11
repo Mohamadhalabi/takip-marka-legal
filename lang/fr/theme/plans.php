@@ -1,0 +1,55 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Plans Language Lines
+    |--------------------------------------------------------------------------
+    */
+    'title' => 'PLANS',
+    'bank-transfer' => 'Virement bancaire',
+    'email-sent-successfully' => 'Email envoyé avec succès',
+    'make-transfer-to-the-account-details-provided' => 'Effectuez le virement aux coordonnées bancaires fournies',
+    'account-number' => 'Numéro de compte',
+    'bank-name' => 'Nom de la banque',
+    'account-name' => 'Nom du titulaire du compte',
+    'if-you-have-other-payment-requirements' => 'Si vous avez d\'autres exigences de paiement, veuillez envoyer un message.',
+    'email' => 'Email',
+    'message' => 'Message',
+    'send' => 'Envoyer',
+    'close' => 'Fermer',
+    'monthly-current-tracking' => 'Suivi mensuel actuel',
+    'brand' => 'Marques',
+    'shape' => 'Images',
+    'monthly-tracking' => 'Suivi mensuel',
+    'call' => 'Recherches',
+    'manual-search-in-past-bulletins' => 'Recherche manuelle dans les bulletins passés',
+    'month' => 'mois',
+    'search-by-shape' => 'Recherche par image',
+    'all-limits-are-refilled-monthly' => 'Toutes les limites sont rechargées mensuellement',
+    'subscribe' => 'Souscrire',
+    'basic' => 'Basique',
+    'professional' => 'Professionnel',
+    'premium' => 'Premium',
+    'area-scan' => 'Recherche de zone',
+    'plan-downgrade' => 'Réduire le plan',
+    'are-you-sure-you-want-to-downgrade' => 'Êtes-vous sûr de vouloir réduire votre plan actuel ? Certaines fonctionnalités peuvent être limitées.',
+    'change' => 'Changer',
+    'i-would-like-to-know-more-about-the-custom-plan' => 'Bonjour, j\'aimerais en savoir plus sur le plan personnalisé. Puis-je obtenir des informations sur les tarifs, les fonctionnalités et autres détails pertinents ?',
+    'current-plan' => 'Plan actuel',
+    'pay-for-subscription' => 'Payer l\'abonnement',
+    'keyword-limit' => 'Limite de mots-clés',
+    'stop-and-your-current-keyword-count' => 'Arrêter et votre nombre actuel de mots-clés',
+    'therefore-in-the-next-reports' => 'Par conséquent, dans les prochains rapports, seuls les',
+    'your-keyword-will-be' => 'votre mot-clé sera',
+    'need-a-different-plan' => 'Besoin d\'un plan différent ? Obtenez une offre en fonction de vos besoins',
+    'get-an-offer' => 'Obtenir une offre',
+    'instead-of-credit-debit-cards' => 'Au lieu des cartes de crédit/débit',
+    'other-payment-methods' => 'autres méthodes de paiement',
+    'do-you-want-to-use' => 'Voulez-vous utiliser',
+    'special-plan' => 'Plan spécial',
+    'your-message-has-been-sent-successfully' => 'Votre message a été envoyé avec succès',
+    'name' => 'Nom',
+    'please-enter-a-message' => 'Veuillez saisir un message',
+];

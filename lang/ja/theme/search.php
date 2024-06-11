@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'the-number-of-results-has-exceeded-1000' => '結果の数が最大制限を超えています。最初の1000件の結果を表示しています。',
+    'you-have-exceeded-your-limit' => 'この期間の制限を超えました。さらなるエリアスキャン検索を行うには、次の月をお待ちいただくか、お問い合わせください。',
+    'area-scan' => 'エリアスキャン',
+    'you-can-search-for-your-brands-in-all-bulletins' => 'すべての公報で商標を検索できます。これにより、キーワードの検索パフォーマンスをテストしたり、過去のレポートの忘れられたキーワードを復元したりすることができます。',
+    'excluded-words' => '除外されたキーワード',
+    'one-to-one-matching' => '一対一のマッチング',
+    'app-no' => '出願番号',
+    'app-date' => '出願日',
+    'classes' => 'ナイス分類',
+    'bulletin-no' => '公報番号',
+    'vienna-classes' => 'ウィーン分類',
+    'proxy-info' => '代理人情報',
+    'good' => '商品',
+    'extracted-good' => '抽出された商品',
+    'close' => '閉じる',
+    'found-in' => '見つかりました',
+    'brand-owner-info' => '商標権利者情報',
+    'exact-match' => '完全一致',
+    'official-brand-bulletin-no' => '公式商標公報番号',
+    'class' => 'クラス',
+    'search-keyword' => '検索キーワード',
+    'goods-and-services' => '商品・役務',
+    'denied-goods-and-services' => '拒絶された商品・役務',
+];

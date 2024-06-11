@@ -1,0 +1,147 @@
+/* your styles go here */
+
+.page-heading {
+    font-size: 30px;
+}
+
+.report-release-date,
+.report-date-header {
+    padding-left: 300px !important;
+}
+
+@media screen and (max-width: 993px) {
+    .report-release-date,
+    .report-date-header {
+        padding-left: 100px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .report-release-date,
+    .report-date-header {
+        padding-left: 50px !important;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .report-release-date,
+    .report-date-header {
+        padding-left: 0px !important;
+    }
+}
+
+.keywords-guide {
+    float: right !important;
+    min-height: 282px;
+}
+
+@media screen and (max-width: 925px) {
+    .keywords-guide {
+        min-height: 300px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .keywords-guide {
+        float: none !important;
+        margin-bottom: 20px;
+        min-height: auto;
+    }
+}
+
+.star {
+    color: red;
+}
+
+.anahtar-nasil-eklenir {
+    font-weight: bold;
+}
+
+.example {
+    padding: 7px;
+}
+
+.setting-card {
+    transition: transform .5s ease;
+}
+
+.setting-card:hover {
+    -ms-transform: scale(1.5);
+    /* IE 9 */
+    -webkit-transform: scale(1.5);
+    /* Safari 3-8 */
+    transform: scale(0.95);
+}
+
+.card-hover a:hover {
+    background: transparent !important;
+}
+
+.head:hover {
+    background-color: whitesmoke !important;
+}
+
+h4.card-text {
+    text-align: center;
+}
+
+.choices__list--dropdown {
+    z-index: 9999 !important;
+}
+
+.test-limit {
+    color: #404c88
+}
+
+.test-limit span {
+    cursor: pointer;
+}
+
+.landscape-card-body {
+    padding: 1rem 1rem !important;
+}
+
+.landscape-table {
+    font-size: 14px;
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1270px) {
+    .landscape-card-body {
+        padding: 1rem 0.5rem !important;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .landscape-table {
+        font-size: 13px;
+    }
+    .landscape-card-body {
+        padding: 0rem 0rem !important;
+    }
+}
+
+.footer {
+    margin-top: 80px;
+}
+
+.premium-icon {
+    width: 180px;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.image-card {
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, .15);
+    border: 2px solid #e9e9ee;
+}
+
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+
+.scrollable-div {
+    overflow-x: scroll;
+    white-space: nowrap;
+}

@@ -1,0 +1,55 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Plans Language Lines
+    |--------------------------------------------------------------------------
+    */
+    'title' => 'PIANI',
+    'bank-transfer' => 'Bonifico Bancario',
+    'email-sent-successfully' => 'Email inviata con successo',
+    'make-transfer-to-the-account-details-provided' => 'Effettua il bonifico utilizzando i dettagli dell\'account forniti',
+    'account-number' => 'Numero di Conto',
+    'bank-name' => 'Nome della Banca',
+    'account-name' => 'Nome dell\'Account',
+    'if-you-have-other-payment-requirements' => 'Se hai altre richieste di pagamento, per favore invia un messaggio.',
+    'email' => 'Email',
+    'message' => 'Messaggio',
+    'send' => 'Invia',
+    'close' => 'Chiudi',
+    'monthly-current-tracking' => 'Monitoraggio Mensile Attuale',
+    'brand' => 'Marchi',
+    'shape' => 'Immagini',
+    'monthly-tracking' => 'Monitoraggio Mensile',
+    'call' => 'Ricerche',
+    'manual-search-in-past-bulletins' => 'Ricerca Manuale in Bollettini Passati',
+    'month' => 'mese',
+    'search-by-shape' => 'Ricerche per Immagine',
+    'all-limits-are-refilled-monthly' => 'Tutti i limiti vengono ricaricati mensilmente',
+    'subscribe' => 'Abbonati',
+    'basic' => 'Base',
+    'professional' => 'Professionale',
+    'premium' => 'Premium',
+    'area-scan' => 'Scansione Area',
+    'plan-downgrade' => 'Downgrade del Piano',
+    'are-you-sure-you-want-to-downgrade' => 'Sei sicuro di voler effettuare il downgrade del tuo piano attuale? Alcune funzionalità potrebbero essere limitate.',
+    'change' => 'Cambia',
+    'i-would-like-to-know-more-about-the-custom-plan' => 'Ciao, vorrei sapere di più sul piano personalizzato. Posso ottenere informazioni su prezzi, funzionalità e altri dettagli pertinenti?',
+    'current-plan' => 'Piano Attuale',
+    'pay-for-subscription' => 'Paga l\'abbonamento',
+    'keyword-limit' => 'Limite Parole Chiave',
+    'stop-and-your-current-keyword-count' => 'Interrompi e il conteggio delle tue parole chiave attuali',
+    'therefore-in-the-next-reports' => 'Quindi, nei prossimi rapporti, solo le prime',
+    'your-keyword-will-be' => 'la tua parola chiave sarà',
+    'need-a-different-plan' => 'Hai bisogno di un piano diverso? Ottieni un\'offerta in base alle tue esigenze',
+    'get-an-offer' => 'Ottieni un\'Offerta',
+    'instead-of-credit-debit-cards' => 'Invece di carte di credito/debito',
+    'other-payment-methods' => 'altri metodi di pagamento',
+    'do-you-want-to-use' => 'Vuoi utilizzare',
+    'special-plan' => 'Piano Speciale',
+    'your-message-has-been-sent-successfully' => 'Il tuo messaggio è stato inviato con successo',
+    'name' => 'Nome',
+    'please-enter-a-message' => 'Inserisci un messaggio',
+];

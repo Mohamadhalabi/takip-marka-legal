@@ -1,0 +1,55 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Plans Language Lines
+    |--------------------------------------------------------------------------
+    */
+    'title' => 'PLÄNE',
+    'bank-transfer' => 'Banküberweisung',
+    'email-sent-successfully' => 'E-Mail erfolgreich gesendet',
+    'make-transfer-to-the-account-details-provided' => 'Überweisen Sie den Betrag auf das angegebene Konto',
+    'account-number' => 'Kontonummer',
+    'bank-name' => 'Bankname',
+    'account-name' => 'Kontoinhaber',
+    'if-you-have-other-payment-requirements' => 'Wenn Sie andere Zahlungsanforderungen haben, senden Sie bitte eine Nachricht.',
+    'email' => 'E-Mail',
+    'message' => 'Nachricht',
+    'send' => 'Senden',
+    'close' => 'Schließen',
+    'monthly-current-tracking' => 'Monatliche aktuelle Überwachung',
+    'brand' => 'Marken',
+    'shape' => 'Bilder',
+    'monthly-tracking' => 'Monatliche Überwachung',
+    'call' => 'Suchen',
+    'manual-search-in-past-bulletins' => 'Manuelle Suche in vergangenen Bulletins',
+    'month' => 'Monat',
+    'search-by-shape' => 'Suche nach Bildern',
+    'all-limits-are-refilled-monthly' => 'Alle Limits werden monatlich aufgefüllt',
+    'subscribe' => 'Abonnieren',
+    'basic' => 'Basic',
+    'professional' => 'Professional',
+    'premium' => 'Premium',
+    'area-scan' => 'Bereichsüberprüfung',
+    'plan-downgrade' => 'Plan herabstufen',
+    'are-you-sure-you-want-to-downgrade' => 'Sind Sie sicher, dass Sie Ihren aktuellen Plan herabstufen möchten? Einige Funktionen können eingeschränkt sein.',
+    'change' => 'Ändern',
+    'i-would-like-to-know-more-about-the-custom-plan' => 'Hallo, ich möchte mehr über den individuellen Plan erfahren. Kann ich Informationen zu Preisen, Funktionen und anderen relevanten Details erhalten?',
+    'current-plan' => 'Aktueller Plan',
+    'pay-for-subscription' => 'Für Abonnement bezahlen',
+    'keyword-limit' => 'Schlüsselwortlimit',
+    'stop-and-your-current-keyword-count' => 'Stopp und Ihre aktuelle Schlüsselwortanzahl',
+    'therefore-in-the-next-reports' => 'Daher werden in den nächsten Berichten nur die ersten',
+    'your-keyword-will-be' => 'Ihr Schlüsselwort wird',
+    'need-a-different-plan' => 'Benötigen Sie einen anderen Plan? Erhalten Sie ein Angebot basierend auf Ihren Bedürfnissen',
+    'get-an-offer' => 'Ein Angebot erhalten',
+    'instead-of-credit-debit-cards' => 'Anstelle von Kredit-/Debitkarten',
+    'other-payment-methods' => 'andere Zahlungsmethoden',
+    'do-you-want-to-use' => 'Möchten Sie',
+    'special-plan' => 'Sonderplan',
+    'your-message-has-been-sent-successfully' => 'Ihre Nachricht wurde erfolgreich gesendet',
+    'name' => 'Name',
+    'please-enter-a-message' => 'Bitte geben Sie eine Nachricht ein',
+];

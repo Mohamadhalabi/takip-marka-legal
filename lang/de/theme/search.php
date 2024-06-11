@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'the-number-of-results-has-exceeded-1000' => 'Die Anzahl der Ergebnisse hat das Maximum überschritten. Es werden die ersten 1000 Ergebnisse angezeigt.',
+    'you-have-exceeded-your-limit' => 'Sie haben Ihr Limit für diesen Zeitraum überschritten. Bitte warten Sie bis zum nächsten Monat, um weitere Bereichssuche-Suchen durchzuführen oder kontaktieren Sie uns.',
+    'area-scan' => 'Bereichssuche',
+    'you-can-search-for-your-brands-in-all-bulletins' => 'Sie können nach Ihren Marken in allen Bulletins suchen. Dadurch können Sie die Suchleistung Ihrer Keywords testen oder vergessene Keywords für einen vergangenen Bericht wiederherstellen.',
+    'excluded-words' => 'Ausgeschlossene Wörter',
+    'one-to-one-matching' => 'Eins-zu-Eins-Zuordnung',
+    'app-no' => 'Antragsnummer',
+    'app-date' => 'Antragsdatum',
+    'classes' => 'Nizza-Klassen',
+    'bulletin-no' => 'Bulletin-Nummer',
+    'vienna-classes' => 'Wiener Klassen',
+    'proxy-info' => 'Anwaltsinformationen',
+    'good' => 'Ware',
+    'extracted-good' => 'Extrahierte Ware',
+    'close' => 'Schließen',
+    'found-in' => 'Gefunden in',
+    'brand-owner-info' => 'Markeninhaber-Informationen',
+    'exact-match' => 'Exakte Übereinstimmung',
+    'official-brand-bulletin-no' => 'Offizielle Markenbulletin-Nummer',
+    'class' => 'Klasse',
+    'search-keyword' => 'Such-Keyword',
+    'goods-and-services' => 'Waren und Dienstleistungen',
+    'denied-goods-and-services' => 'Abgelehnte Waren und Dienstleistungen',
+];

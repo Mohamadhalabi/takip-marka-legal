@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'the-number-of-results-has-exceeded-1000' => 'Il numero dei risultati ha superato il limite massimo. Vengono mostrati i primi 1000 risultati.',
+    'you-have-exceeded-your-limit' => 'Hai superato il limite per questo periodo. Attendere il mese successivo per effettuare ulteriori ricerche di area scan o contattaci.',
+    'area-scan' => 'Area Scan',
+    'you-can-search-for-your-brands-in-all-bulletins' => 'Puoi cercare i tuoi marchi in tutti i bollettini. Ciò ti consente di testare le prestazioni di ricerca delle tue parole chiave o recuperare parole chiave dimenticate per un report passato.',
+    'excluded-words' => 'Parole Escluse',
+    'one-to-one-matching' => 'Corrispondenza Uno a Uno',
+    'app-no' => 'Numero Domanda',
+    'app-date' => 'Data Domanda',
+    'classes' => 'Classi di Nizza',
+    'bulletin-no' => 'Numero Bollettino',
+    'vienna-classes' => 'Classi di Vienna',
+    'proxy-info' => 'Informazioni Procuratore',
+    'good' => 'Buono',
+    'extracted-good' => 'Buono Estratto',
+    'close' => 'Chiudi',
+    'found-in' => 'Trovato In',
+    'brand-owner-info' => 'Informazioni Proprietario Marchio',
+    'exact-match' => 'Corrispondenza Esatta',
+    'official-brand-bulletin-no' => 'Numero Ufficiale Bollettino Marchi',
+    'class' => 'classe',
+    'search-keyword' => 'Parola Chiave di Ricerca',
+    'goods-and-services' => 'Beni e Servizi',
+    'denied-goods-and-services' => 'Beni e Servizi Negati',
+];

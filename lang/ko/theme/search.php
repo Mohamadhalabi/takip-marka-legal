@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'the-number-of-results-has-exceeded-1000' => '결과의 수가 최대 제한을 초과했습니다. 처음 1000개의 결과를 표시합니다.',
+    'you-have-exceeded-your-limit' => '이 기간에 제한을 초과했습니다. 추가적인 영역 검색을 위해서는 다음 달까지 기다리거나 저희에게 문의하십시오.',
+    'area-scan' => '영역 스캔',
+    'you-can-search-for-your-brands-in-all-bulletins' => '모든 공고에서 상표를 검색할 수 있습니다. 이를 통해 키워드의 검색 성능을 테스트하거나 이전 보고서에서 잊어버린 키워드를 복구할 수 있습니다.',
+    'excluded-words' => '제외된 단어',
+    'one-to-one-matching' => '일대일 매칭',
+    'app-no' => '출원 번호',
+    'app-date' => '출원 일자',
+    'classes' => '나이스 분류',
+    'bulletin-no' => '공고 번호',
+    'vienna-classes' => '비엔나 분류',
+    'proxy-info' => '대리인 정보',
+    'good' => '상품',
+    'extracted-good' => '추출된 상품',
+    'close' => '닫기',
+    'found-in' => '발견 위치',
+    'brand-owner-info' => '상표 소유자 정보',
+    'exact-match' => '정확한 일치',
+    'official-brand-bulletin-no' => '공식 상표 공고 번호',
+    'class' => '분류',
+    'search-keyword' => '검색 키워드',
+    'goods-and-services' => '상품 및 서비스',
+    'denied-goods-and-services' => '거부된 상품 및 서비스',
+];
